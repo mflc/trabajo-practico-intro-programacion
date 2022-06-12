@@ -30,13 +30,12 @@ switch (action) {
         break;
     case 'delete':
         del(process.argv[3])
+        normalize() 
         break;
     case 'find':
         filter(process.argv[3])
         break;
-    case 'normalize':
-        normalize()   
-        break;
+    
   
 
 
