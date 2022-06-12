@@ -1,0 +1,4 @@
+ "El Cerebro Argentino" "Facundo Manes" Neurociencia 2016 800 1200
+"La naranja mecanica" " Anthony Burgess" Novela 1962 500 950
+"Cronicas marcianas" "Ray Bradbury" "Ciencia Ficcion" 1950 156 256.24 
+"El señor de las moscas " "William Golding" Novela 1954 265 546

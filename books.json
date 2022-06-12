@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "El Cerebro Argentino",
+        "author": "Facundo Manes",
+        "genre": "Neurociencia",
+        "year": 2016,
+        "cost": 800,
+        "price": 1200
+    },
+    {
+        "id": 2,
+        "title": "La naranja mecánica",
+        "author": " Anthony Burgess",
+        "genre": "Novela",
+        "year": 1962,
+        "cost": 500,
+        "price": 950
+    },
+    {
+        "id": 3,
+        "title": "El señor de las moscas ",
+        "author": "William Golding",
+        "genre": "Novela",
+        "year": 1954,
+        "cost": 265,
+        "price": 546
+    },
+    {
+        "id": 4,
+        "title": "Cronicas marcianas",
+        "author": "Ray Bradbury",
+        "genre": "Ciencia Ficcion",
+        "year": 1950,
+        "cost": 156,
+        "price": 256.24
+    }
+]
